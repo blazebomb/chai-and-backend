@@ -1,0 +1,18 @@
+# Ignore VS Code directory
+.vscode/
+
+# Ignore node_modules at any level
+node_modules/
+
+# Ignore dist at any level
+dist/
+
+# Ignore all .env files
+*.env
+
+# Ignore specific .env files in the root
+.env
+.env.*
+
+# Optional: Ignore log files
+*.log
